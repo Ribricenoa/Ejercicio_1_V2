@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hola Rashyd No JULS
 
 
 Esta es una nueva Linea Despues de los cambios aceptados.
-=======
-Hola Rashyd 2.0
->>>>>>> 8767d25acdb25208c0be5e62c2bcbc6dd2b47890
